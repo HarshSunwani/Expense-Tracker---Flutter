@@ -4,6 +4,12 @@ A simple yet functional expense tracker app built with **Flutter**. It allows us
 
 ---
 
+## 🎥 Demo
+
+[Watch the demo video here](https://drive.google.com/file/d/1yXRsle-imLKMBvE-O6gfP05NSBamIPLG/view?usp=sharing)
+
+---
+
 ## 🧭 Features
 
 - Add new expenses with validation.
